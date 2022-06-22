@@ -1,0 +1,4 @@
+#!/bin/bash
+echo "Type a phrase"
+number of words=$wc -n -w
+number of whitespace=$wc -n -c
