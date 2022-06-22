@@ -1,0 +1,7 @@
+subject="Happy New Year Recipeints_Name!
+May the coming year be full of grand adventures and opportunities." 
+from="s.omondi@alustudent.com "
+ recipients_Name="h.fazal@alustudentl.com, p.atadja@alustudent.com,  e.uwimbabazi@alustudent.com, c.banda@alustudent.com, "
+ mail="subject:$subject\nfrom:$from\nExample Message"
+echo -e $mail | /usr/sbin/sendmail "$recipients"
+
