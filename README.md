@@ -1,1 +1,1 @@
-# Group7_LCS-2
+This is a read me for LCS-2
