@@ -1,0 +1,4 @@
+#!/bin/bash
+echo "Type a phrase"
+word=$(echo -n "$text" | wc -w)
+whitespace=$(echo -n "$text" | wc -c)
