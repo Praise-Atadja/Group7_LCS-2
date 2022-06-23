@@ -11,3 +11,4 @@ The script takes a path, and confirms if it is a directory or not. If it is a di
 
 
 <img width="492" alt="NUMBER_2 (3)" src="https://user-images.githubusercontent.com/106454335/175249108-edef7cd4-f26c-46bb-9867-12395b25edd1.png">
+![cece](https://user-images.githubusercontent.com/106454335/175321454-cc624dd2-0254-4f39-8288-1a2491047f0e.jpeg)
